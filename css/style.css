@@ -6,11 +6,12 @@ body {
   }
   #p {
     background-color: grey;
-    padding:10px;
+    
   }
-  p
+  #main content
   {
       text-align:justify;
+      padding:10px;
   }
 
   
