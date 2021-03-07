@@ -4,6 +4,10 @@ body {
     background-color: #61122f;
     font-family: 'Oxygen', sans-serif;
   }
+  #menu
+  {
+      margin-bottom:20px;
+  }
   #p {
     background-color: grey;
     text-align:justify;
