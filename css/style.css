@@ -20,7 +20,7 @@ body {
 
   
   #header-nav {
-    background-color:orange;
+    background-color:black;
     border-radius: 0;
     border: 0;
   }
@@ -42,6 +42,11 @@ body {
   }
   .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
+  }
+  .navbar-brand
+  {
+    font-size:30px;
+    color:black;
   }
   .navbar-brand p { /* Kosher cert */
     color:black;
@@ -95,7 +100,7 @@ body {
   }
   
   /********** Extra small devices only **********/
-  @media (max-width: 767px) {
+  @media (min-width: 768px) {
     /* Header */
     .navbar-brand {
       padding-top: 10px;
