@@ -4,10 +4,6 @@ body {
     color: #1a1a1a;
     background-color:#ffffff;
 }
-
-
-/** HEADER **/
-
 #header-nav {
     background-color: red;
     border-radius: 0;
@@ -87,7 +83,7 @@ body {
 }
 
 #main-section {
-    background-color: dodgerblue;
+    background-color: #1e90ff ;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
