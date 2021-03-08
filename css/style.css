@@ -68,12 +68,6 @@ body {
     border: 1px solid #7d1913;
 }
 
-
-/** END HEADER */
-
-
-/** HOME PAGE **/
-
 #main-content {
     width: 92%;
     margin-bottom: 40px;
@@ -93,7 +87,7 @@ body {
 }
 
 #main-section {
-    background-color: #82d06b;
+    background-color: dodgerblue;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
