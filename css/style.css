@@ -92,7 +92,7 @@ body {
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   /* Header */
   .navbar-brand {
     padding-top: 10px;
