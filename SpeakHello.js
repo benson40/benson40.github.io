@@ -4,5 +4,5 @@
     hellospeaker.speak = function(name) {
         console.log(speakWord + " " + name);
     };
-    window.hellospeaker = hellospeaker;
+    window.hellospeaker = helloSpeaker;
 })(window);
